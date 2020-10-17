@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-real-time"
+    }
+  },
+  "defaultProject": "app-real-time",
+  "cli": {
+    "analytics": "f81003ea-c4cd-4023-9fed-c9efb7dc02fa"
+  }
 }

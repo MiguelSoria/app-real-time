@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Perfil",
+        "icon:": "fa-user",
+        "color": "text_gray-400"
+    },
+    {
+        "title": "Configuraciones",
+        "icon:": "fa-cogs",
+        "color": "text_gray-400"
+    },
+    {
+        "title": "Resgistro de Actividad",
+        "icon:": "fa-user",
+        "color": "text_gray-400"
+    }
+]
